@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;300&family=Vina+Sans&display=swap');
+
+*{
+  margin:0;
+}
+
+body{
+  font-family: 'Roboto Mono', monospace;
+  background-color:#c9c9c9;
+}
+
+#menu{
+  max-width: ;
+  margin-left:;
+  margin-right:;
+  background-image:url('https://www.celebritycruises.com/blog/content/uploads/2021/03/what-is-japan-known-for-mt-fuji-hero-1920x890.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height:860px;
+}
+
+ul{
+  text-align: left;
+  padding: 30px;
+}
+
+li{
+  font-weight: 900;
+  display:inline;
+  padding:10px;
+  text-transform:uppercase;
+}
+
+a{
+  text-decoration:none;
+  color: white;
+  padding:8px;
+  border-bottom: 2px solid transparent;
+  transition-duration: 0.5s;
+}
+
+a:hover{
+  border-bottom: 2px solid red;
+}
+
+#offer{
+  max-width:1400px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+}
+
+.info{
+  margin-top:30px;
+  width:200px;
+  height:200px;
+  border-radius:150px;
+  object-fit:cover;
+}
+
+.collum-three{
+  float:left;
+  width: 25%;
+}
+
+h1{
+  padding:30px;
+  text-align:center;
+  clear: both;
+}
+
+p{
+  text-align: left;
+  padding: 50px;
+}
+
+.mySlides{
+  min-height:700px;
+  max-height:700px;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:10px;
+  border-bottom:9px;
+}
+
+#gallery{
+  max-width:;
+  margin-left:auto;
+  margin-right:auto;
+  height:1250px;
+}
+
+#footer{
+  max-width:1400px;
+  height:500px;
+  background-color:#262626;
+  padding:50px;
+  font-size:80%;
+  margin-left:auto;
+  margin-right:auto;
+}
+.colum-two{
+  float:left;
+  width:50%;
+}
+.colum-two:hover{
+  transition-duration:0.5s;
+  max-height:120px;
+  min-height:120px;
+  .contact:hover{
+    display:none;
+  }
+}
+form{
+  margin-top:20px;
+  width:400;
+  padding:20px;
+  margin-left:auto;
+  margin-right:auto;
+  color:white;
+}
+forminput{
+  width:330px;
+  height:30px;
+}
+form lable{
+  font-size:18px;
+}
+fieldset{
+  padding:20px;
+  margin-bottom:10px;
+}
+legend{
+  font-size:30px;
+}
+.button{
+  width:150px;
+  height:50px;
+  background-color:#fa4a0a;
+  color:white;
+  padding:15px 32px;
+  font-size:16px;
+  border-radius:4px;
+}
+a2{
+  text-decoration:none;
+  color: black;
+  padding:8px;
+  border-bottom: 2px solid transparent;
+  transition-duration: 0.5s;
+}
+g:{
+  border-bottom: 14px solid red;
+}
+.gg{
+  margin-left:auto;
+  margin-right:auto;
+  max-height:40px;
+  max-width:40px;
+}
+
+a3{
+  text-decoration:none;
+  color: white;
+  padding:8px;
+  border-bottom: 2px solid transparent;
+  transition-duration: 0.5s;
+  max-height:40px;
+}
+a3:hover{
+  border-bottom: 2px solid red;
+}
+
